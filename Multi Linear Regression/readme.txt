@@ -1,0 +1,1 @@
+This is a multiple linear regression between four independent variables including R&D spend (numerical), Admin (numerical), Marketing (numerical) and State (categorical) and one dependent numerical variable (profit).
